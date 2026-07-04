@@ -1,0 +1,25 @@
+PM10 (µg/m³),NO2 (µg/m³),SO2 (µg/m³),CO (mg/m³),O3 (µg/m³),Temperature (°C),Humidity (%),Wind Speed (m/s),Pressure (hPa),Season,City,Weather Condition,Hour,Month,Day of Week
+118,36,11,0.8,42,28,70,2.5,1010,Summer,Beijing,Sunny,0,7,1
+120,35,10,0.8,43,28,69,2.7,1010,Summer,Beijing,Sunny,1,7,1
+122,36,11,0.9,44,28,69,2.8,1010,Summer,Beijing,Sunny,2,7,1
+125,38,12,0.9,45,27,70,3.0,1009,Summer,Beijing,Cloudy,3,7,1
+127,40,13,1.0,46,27,71,3.1,1009,Summer,Beijing,Cloudy,4,7,1
+130,41,13,1.0,47,27,72,3.2,1009,Summer,Beijing,Cloudy,5,7,1
+132,43,14,1.1,48,28,72,3.4,1008,Summer,Beijing,Cloudy,6,7,1
+135,44,14,1.1,49,29,71,3.5,1008,Summer,Beijing,Cloudy,7,7,1
+137,45,15,1.2,50,30,70,3.6,1008,Summer,Beijing,Sunny,8,7,1
+140,47,16,1.2,51,31,69,3.7,1008,Summer,Beijing,Sunny,9,7,1
+142,48,16,1.3,52,32,68,3.8,1007,Summer,Beijing,Sunny,10,7,1
+145,49,17,1.3,53,33,67,3.9,1007,Summer,Beijing,Sunny,11,7,1
+147,50,17,1.3,54,34,66,4.0,1007,Summer,Beijing,Sunny,12,7,1
+149,51,18,1.4,55,34,65,4.1,1007,Summer,Beijing,Sunny,13,7,1
+151,52,18,1.4,56,33,65,4.0,1007,Summer,Beijing,Cloudy,14,7,1
+153,53,19,1.5,57,32,66,3.9,1008,Summer,Beijing,Cloudy,15,7,1
+155,54,19,1.5,58,31,67,3.8,1008,Summer,Beijing,Cloudy,16,7,1
+156,55,20,1.5,59,30,68,3.7,1008,Summer,Beijing,Cloudy,17,7,1
+158,56,20,1.6,60,29,69,3.5,1009,Summer,Beijing,Cloudy,18,7,1
+160,57,21,1.6,61,28,70,3.3,1009,Summer,Beijing,Cloudy,19,7,1
+162,58,21,1.6,62,28,71,3.2,1010,Summer,Beijing,Sunny,20,7,1
+164,59,22,1.7,63,27,72,3.0,1010,Summer,Beijing,Sunny,21,7,1
+166,60,22,1.7,64,27,73,2.8,1010,Summer,Beijing,Sunny,22,7,1
+168,61,23,1.8,65,26,74,2.6,1011,Summer,Beijing,Sunny,23,7,1

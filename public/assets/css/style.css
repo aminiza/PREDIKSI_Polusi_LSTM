@@ -1,0 +1,67 @@
+.brand-text{
+    font-weight:600;
+}
+
+.content-header h1{
+    font-weight:600;
+}
+
+.card{
+    border-radius:10px;
+}
+
+.card-header{
+    font-weight:600;
+}
+
+.brand-link{
+
+    text-align:center;
+
+    font-size:18px;
+
+}
+
+.brand-text{
+
+    color:white;
+
+}
+
+.nav-sidebar .nav-link{
+
+    border-radius:8px;
+
+}
+
+.nav-sidebar .nav-treeview>.nav-item>.nav-link{
+
+    margin-left:10px;
+
+}
+
+.sidebar{
+
+    overflow-y:auto;
+
+}
+
+.content-wrapper{
+
+    background:#f4f6f9;
+
+}
+
+.main-footer{
+
+    font-size:14px;
+
+}
+
+.content-header h1{
+
+    font-weight:600;
+
+    color:#343a40;
+
+}
